@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @panquet 👋 
-- 👀 I’m just playing around 
-- 🌱 I’m currently messing with a small web page to annoy my brother.
+- 👀 I’m just testing
+- 🌱 I’m currently messing with a small web page.
 - 💞️ I’m looking to collaborate on: nothing yet! 
 - 📫 How to reach me github.enq@panquet.com.au
 - 😄 
-- ⚡ Fun fact: theres nothing interesting on this repo exect some family photos (available on my facebook anyway)
+- ⚡ Fun fact: theres nothing interesting on this repo exect some family photos. 
 
 T- dont delete the CNAME or the readme.md
 cheers
